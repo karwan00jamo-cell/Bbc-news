@@ -1,0 +1,8 @@
+{
+  "name": "Dolashi news",
+  "description": "A world-class news portal inspired by the BBC, featuring AI-powered summaries, deep dives, and a clean, friendly editorial design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
